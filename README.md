@@ -1,19 +1,10 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# quizzler-class-test
+A simple and basic "quiz" app I made in flutter to get familiar with classes, objects, and constructors in Dart.
+## How to install (for Android Studio)
+From the main menu of Android Studio select **Get from Version Control** (or something similar), then choose **Git** and paste in `https://github.com/IAmThe2ndHuman/quizzler-class-test.git`. 
 
+Android Studio will then ask you if you want to create an Android Studio project. **Click No.** Instead, choose open an existing Android Studio project, navigate to the folder that contains the project and open it.
 
-# Quizzler Challenge - Starting Files
+Then run `flutter pub get` to get the dependencies required.
 
-- Clone this repository to your local system.
-
-- Read the docs for the package we're using:
-
-[rFluttter Alert](https://pub.dartlang.org/packages/rflutter_alert)
-
-- Follow the step by step challenges.
-
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+[App template provided by londonappbrewery](https://github.com/londonappbrewery/quizzler-flutter)
