@@ -7,4 +7,6 @@ Android Studio will then ask you if you want to create an Android Studio project
 
 Then run `flutter pub get` to get the dependencies required.
 
+**Note: You will need to install the Flutter and Dart plugin first.**
+
 [App template provided by londonappbrewery](https://github.com/londonappbrewery/quizzler-flutter)
